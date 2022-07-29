@@ -1,0 +1,63 @@
+@font-face {
+  font-family: icomoon;
+  src: url(../fonts/icomoon.eot?981avy);
+  src: url(../fonts/icomoon.eot?#iefix981avy) format("embedded-opentype"),
+    url(../fonts/icomoon.woff?981avy) format("woff"),
+    url(../fonts/icomoon.ttf?981avy) format("truetype"),
+    url(../fonts/icomoon.svg?981avy#icomoon) format("svg");
+  font-weight: 400;
+  font-style: normal;
+}
+
+[class*=" icon-"],
+[class^="icon-"] {
+  font-family: icomoon;
+  speak: none;
+  font-style: normal;
+  font-weight: 400;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-magic-wand:before {
+  content: "\e997";
+}
+.icon-file-submodule:before {
+  content: "\f017";
+}
+.icon-comment:before {
+  content: "\e606";
+}
+
+.icon-heart:before {
+  content: "\e609";
+}
+.icon-file-pdf:before {
+  content: "\f014";
+}
+.icon-magic-wand:before {
+  content: "\e997";
+}
+.icon-texture:before {
+  content: "\ec99";
+}
+.icon-group-outline:before {
+  content: "\edd8";
+}
+.icon-tree3:before {
+  content: "\efd5";
+}
+.icon-gift6:before {
+  content: "\f2f0";
+}
+.icon-star13:before {
+  content: "\f4df";
+}
+
+.icon-heart18:before {
+  content: "\f4e0";
+}
+/* .static-color-icons span:first-child{background:#ffc400} */

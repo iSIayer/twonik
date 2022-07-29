@@ -1,11 +1,18 @@
 @charset "utf-8";
 
-
-.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:focus, .navbar-default .navbar-nav > .open > a:hover,
-.navbar.navbar-bg-light .navbar-nav > li > a:hover, .navbar.navbar-bg-light .navbar-nav > li > a:focus, .navbar.navbar-bg-light .navbar-nav > li > a.active,
+.navbar-default .navbar-nav > .open > a,
+.navbar-default .navbar-nav > .open > a:focus,
+.navbar-default .navbar-nav > .open > a:hover,
+.navbar.navbar-bg-light .navbar-nav > li > a:hover,
+.navbar.navbar-bg-light .navbar-nav > li > a:focus,
+.navbar.navbar-bg-light .navbar-nav > li > a.active,
 .navbar.navbar-bg-light .navbar-nav > li > a.highlighted,
-.page-links div a:hover, .page-links div a:active, .page-links div a:focus,
-.dropdown-menu > li > a:focus, .dropdown-menu > li > a:hover, .dropdown-menu > li > a.active,
+.page-links div a:hover,
+.page-links div a:active,
+.page-links div a:focus,
+.dropdown-menu > li > a:focus,
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a.active,
 .text-color,
 .item-box a:hover i,
 .inverse i,
@@ -14,7 +21,7 @@
 .pricing:hover .title a,
 .process-content:hover .title,
 .pricing .price,
-.post-meta  i,
+.post-meta i,
 .meta i,
 .quote blockquote:before,
 .quote blockquote:after,
@@ -22,12 +29,13 @@
 #video-controls a,
 .link-hover-color a:hover,
 .icons-hover-color i:hover,
-.navbar-default .navbar-nav > li.active > a, 
-.navbar-default .navbar-nav > li.active > a:focus, 
+.navbar-default .navbar-nav > li.active > a,
+.navbar-default .navbar-nav > li.active > a:focus,
 .navbar-default .navbar-nav > li.active > a:hover,
 #page .breadcrumb > .active,
 .timeliner li:hover .timeline-heading h4.subheading,
-.navbar-default .navbar-nav .open .dropdown-menu > li > a:focus, .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover,
+.navbar-default .navbar-nav .open .dropdown-menu > li > a:focus,
+.navbar-default .navbar-nav .open .dropdown-menu > li > a:hover,
 .sitemap li a:hover,
 .link-hover-black a:hover,
 .icons-hover-black i:hover,
@@ -44,18 +52,16 @@ a.read-more,
 .price,
 .star-rating.color .fa,
 .special-feature .mask-top:after,
-.navbar-default .navbar-nav > li.active > a, 
-.navbar-default .navbar-nav > li.active > a:focus, 
+.navbar-default .navbar-nav > li.active > a,
+.navbar-default .navbar-nav > li.active > a:focus,
 .navbar-default .navbar-nav > li.active > a:hover,
 .detail-box .icon i,
 .contact-info .item-box i,
 .has-submenu::after,
 .btn-transparent-white:hover,
-.btn-transparent-black:hover
-{
-	color: #feb600;
+.btn-transparent-black:hover {
+  color: #feb600;
 }
-
 
 .top-bar-section.top-bar-bg-color,
 .product-count,
@@ -64,10 +70,11 @@ a.read-more,
 .btn-default,
 .section-title h1:before,
 .section-title h2:before,
-.special-feature .mask-top h4:before ,
+.special-feature .mask-top h4:before,
 .s-feature-box:hover .mask-bottom,
 .progress-bar,
-.owl-prev .fa, .owl-next .fa,
+.owl-prev .fa,
+.owl-next .fa,
 h3.count-number:before,
 h2.count-number:before,
 .item-box.inverse a:hover i,
@@ -81,8 +88,8 @@ h2.count-number:before,
 .bar,
 .pagination > .active > span,
 .pagination > .active > span:hover,
-.blog.timeliner>li:hover .timeline-image,
-.blog.timeliner>li:hover .timeline-icon,
+.blog.timeliner > li:hover .timeline-image,
+.blog.timeliner > li:hover .timeline-icon,
 div.count-number:before,
 .static-color-icons span,
 .team-item .social-icon,
@@ -91,19 +98,18 @@ div.count-number:before,
 .image-top-border .service-image:after,
 .general-section .nav:before,
 .navbar-default .navbar-toggle .icon-bar,
-.list-border .list-group-item.active, 
-.list-border .list-group-item.active:focus, 
+.list-border .list-group-item.active,
+.list-border .list-group-item.active:focus,
 .list-border .list-group-item.active:hover,
-.list-border.widget a.list-group-item:focus, 
+.list-border.widget a.list-group-item:focus,
 .list-border.widget a.list-group-item:hover,
 .image-bg .overlay-color,
 .overlay-color,
 .work-section .nav.b-color li.active,
 .work-section .nav.b-color li:hover,
 .mixed-grid .nav.b-color li.active,
-.mixed-grid .nav.b-color li:hover
-{
-	background-color: #feb600;
+.mixed-grid .nav.b-color li:hover {
+  background-color: #feb600;
 }
 
 .dropdown-menu,
@@ -112,45 +118,42 @@ div.count-number:before,
 .timeliner li:hover .timeline-image,
 .pagination > .active > span,
 .pagination > .active > span:hover,
-.blog.timeliner  >li:hover .timeline-panel,
+.blog.timeliner > li:hover .timeline-panel,
 .slider.border-bottom,
 .special-feature .s-feature-box,
 .image-top-border img,
 #client-list img:hover,
-.sidebar  .widget .widget-title .title:after,
+.sidebar .widget .widget-title .title:after,
 .page-wrap .section-title,
-.request-quote .container
-{
-	border-color: #feb600;
+.request-quote .container {
+  border-color: #feb600;
 }
 
-.bottom-arrow:before{
-	border-top-color: #feb600;
+.bottom-arrow:before {
+  border-top-color: #feb600;
 }
-.rightGrip, 
-.leftGrip{
-	border-bottom: 10px solid #feb600 !important;
+.rightGrip,
+.leftGrip {
+  border-bottom: 10px solid #feb600 !important;
 }
-
-
 
 .btn-default:hover,
 .color-switch .owl-controls .owl-page span,
 .tags li a,
-.slider-box h2{
- background-color: rgba(254,182,0,.8);
+.slider-box h2 {
+  background-color: rgba(254, 182, 0, 0.8);
 }
-.tparrows{
- background-color: rgba(254,182,0,.4) !important;
+.tparrows {
+  background-color: rgba(254, 182, 0, 0.4) !important;
 }
 ::-moz-selection {
-    background: #feb600;
-    color: #000000;
-    text-shadow: none;
+  background: #feb600;
+  color: #000000;
+  text-shadow: none;
 }
 
 ::selection {
-    background: #feb600;
-    color: #a4003a;
-    text-shadow: none;
+  background: #feb600;
+  color: #a4003a;
+  text-shadow: none;
 }
