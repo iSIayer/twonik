@@ -60,7 +60,7 @@ a.read-more,
 .has-submenu::after,
 .btn-transparent-white:hover,
 .btn-transparent-black:hover {
-  color: #feb600;
+  color: #0078ae;
 }
 
 .top-bar-section.top-bar-bg-color,
@@ -109,7 +109,7 @@ div.count-number:before,
 .work-section .nav.b-color li:hover,
 .mixed-grid .nav.b-color li.active,
 .mixed-grid .nav.b-color li:hover {
-  background-color: #feb600;
+  background-color: #0078ae;
 }
 
 .dropdown-menu,
